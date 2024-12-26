@@ -1,0 +1,1 @@
+   .\MyScript.ps1

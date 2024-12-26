@@ -1,1 +1,1 @@
-   .\MyScript.ps1
+   .\loadgraphics.ps1

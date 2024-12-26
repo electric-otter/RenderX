@@ -1,1 +1,2 @@
 ./rendering.c
+./viewdistance.c
